@@ -49,7 +49,7 @@ Fraud-Detection-App/
 ├── Fraud_Dec_Env.ipynb         # Complete development code
 └── README.md                   # Project documentation
 Live Demo
-  Coming Soon! This dashboard will be deployed on Streamlit Cloud.
+  https://fraud-detection-app-ihdhw3aylzzpx69slfwqeh.streamlit.app/
 
 Project Details
 Institution: Leeds Trinity University
